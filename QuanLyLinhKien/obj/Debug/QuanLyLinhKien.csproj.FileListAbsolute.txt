@@ -1,0 +1,11 @@
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe.config
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.pdb
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.xml
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.csprojResolveAssemblyReference.cache
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.Form1.resources
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.Properties.Resources.resources
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.csproj.GenerateResource.Cache
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.exe
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.pdb

@@ -1,0 +1,54 @@
+T:\@Viet\QuanLyLinhKien\DAL\bin\Debug\DAL.dll.config
+T:\@Viet\QuanLyLinhKien\DAL\bin\Debug\DAL.dll
+T:\@Viet\QuanLyLinhKien\DAL\bin\Debug\DAL.pdb
+T:\@Viet\QuanLyLinhKien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+T:\@Viet\QuanLyLinhKien\DAL\obj\Debug\DAL.dll
+T:\@Viet\QuanLyLinhKien\DAL\obj\Debug\DAL.pdb
+T:\Viet\QuanLyLinhKien\DAL\bin\Debug\DAL.dll.config
+T:\Viet\QuanLyLinhKien\DAL\bin\Debug\DAL.dll
+T:\Viet\QuanLyLinhKien\DAL\bin\Debug\DAL.pdb
+T:\Viet\QuanLyLinhKien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+T:\Viet\QuanLyLinhKien\DAL\obj\Debug\DAL.dll
+T:\Viet\QuanLyLinhKien\DAL\obj\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\DAL\bin\Debug\DAL.dll.config
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\DAL\bin\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\DAL\bin\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\DAL\obj\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\DAL\obj\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\DAL\bin\Debug\DAL.dll.config
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\DAL\bin\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\DAL\bin\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\DAL\obj\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\DAL\obj\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\DAL\bin\Debug\DAL.dll.config
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\DAL\bin\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\DAL\bin\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\DAL\obj\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\DAL\obj\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\DAL\bin\Debug\DAL.dll.config
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\DAL\bin\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\DAL\bin\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\DAL\obj\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\DAL\obj\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\DAL\bin\Debug\DAL.dll.config
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\DAL\bin\Debug\DAL.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\DAL\bin\Debug\DAL.pdb
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\DAL\obj\Debug\DAL.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\DAL\obj\Debug\DAL.pdb
+T:\QuanLyLinhKien\DAL\bin\Debug\DAL.dll.config
+T:\QuanLyLinhKien\DAL\bin\Debug\DAL.dll
+T:\QuanLyLinhKien\DAL\bin\Debug\DAL.pdb
+T:\QuanLyLinhKien\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+T:\QuanLyLinhKien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+T:\QuanLyLinhKien\DAL\obj\Debug\DAL.dll
+T:\QuanLyLinhKien\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,45 @@
+D:\@ Shortcut\PTUD\QuanLyLinhKien\Entity\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\Entity\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\QuanLyLinhKien\Entity\obj\Debug\Entity.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\Entity\obj\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\QuanLyLinhKien\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+T:\@Viet\QuanLyLinhKien\Entity\bin\Debug\Entity.dll
+T:\@Viet\QuanLyLinhKien\Entity\bin\Debug\Entity.pdb
+T:\@Viet\QuanLyLinhKien\Entity\obj\Debug\Entity.dll
+T:\@Viet\QuanLyLinhKien\Entity\obj\Debug\Entity.pdb
+T:\@Viet\QuanLyLinhKien\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+T:\Viet\QuanLyLinhKien\Entity\bin\Debug\Entity.dll
+T:\Viet\QuanLyLinhKien\Entity\bin\Debug\Entity.pdb
+T:\Viet\QuanLyLinhKien\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+T:\Viet\QuanLyLinhKien\Entity\obj\Debug\Entity.dll
+T:\Viet\QuanLyLinhKien\Entity\obj\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\Entity\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\Entity\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\Entity\obj\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\Entity\obj\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\Entity\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\Entity\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\Entity\obj\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\Entity\obj\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\Entity\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\Entity\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\Entity\obj\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\Entity\obj\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\Entity\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\Entity\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\Entity\obj\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\Entity\obj\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\Entity\bin\Debug\Entity.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\Entity\bin\Debug\Entity.pdb
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\Entity\obj\Debug\Entity.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,432 @@
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe.config
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.pdb
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\MetroFramework.Design.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\MetroFramework.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\MetroFramework.Fonts.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.xml
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.Properties.Resources.resources
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.exe
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.pdb
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucCTHD.resources
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormKhachHang.resources
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucLinhKien.resources
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormLogin.resources
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyHoaDon.resources
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyKhachHang.resources
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhanVien.resources
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormGiaoDienNhanVien.resources
+D:\@ Shortcut\PTUD\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLinhKien.resources
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe.config
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.exe
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.pdb
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.pdb
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.dll
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.dll
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.dll
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.pdb
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.pdb
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.xml
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormGiaoDienNhanVien.resources
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormKhachHang.resources
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormLogin.resources
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.Properties.Resources.resources
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLinhKien.resources
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyKhachHang.resources
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhanVien.resources
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.GenerateResource.Cache
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyBanHang.resources
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucGiaoDienTinhTien.resources
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyDonDatHang.resources
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.dll
+T:\@Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.pdb
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe.config
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.exe
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.pdb
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.pdb
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.dll
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.dll
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.dll
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\WinFormAnimation.dll
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.dll
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.pdb
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.pdb
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.xml
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\WinFormAnimation.xml
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.pdb
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormGiaoDienNhanVien.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormKhachHang.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormLogin.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormPlashScreen.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.Properties.Resources.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucGiaoDienTinhTien.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLoaiLinhKien.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyBanHang.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLinhKien.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyDonDatHang.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyKhachHang.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhaCungCap.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhanVien.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.GenerateResource.Cache
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyChiTietDonDatHang.resources
+T:\Viet\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucTruyXuatHoaDon.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe.config
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.pdb
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.Shared.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\FlashControlV71.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\WinFormAnimation.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\ShockwaveFlashObjects.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\stdole.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.xml
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\WinFormAnimation.xml
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.dll.config
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormGiaoDienNhanVien.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormKhachHang.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormLogin.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormPlashScreen.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.Properties.Resources.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThanhToan.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucGiaoDienXacNhanDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyChiTietDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLoaiLinhKien.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyBanHang.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLinhKien.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyKhachHang.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhaCungCap.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhanVien.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucReport.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeLinhKien.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucTruyXuatHoaDon.resources
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.CopyComplete
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.exe
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe.config
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.Shared.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\FlashControlV71.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\WinFormAnimation.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\ShockwaveFlashObjects.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\stdole.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.xml
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\WinFormAnimation.xml
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.dll.config
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormGiaoDienNhanVien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormLogin.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormPlashScreen.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.Properties.Resources.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThanhToan.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucGiaoDienXacNhanDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyChiTietDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLoaiLinhKien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyBanHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLinhKien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyKhachHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhaCungCap.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhanVien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucReport.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeKhachHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeLinhKien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeNhanVien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucTruyXuatHoaDon.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.CopyComplete
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.exe
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe.config
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\BLL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.Shared.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\FlashControlV71.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\WinFormAnimation.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\ShockwaveFlashObjects.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\stdole.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.xml
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\WinFormAnimation.xml
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\bin\Debug\DAL.dll.config
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormGiaoDienChinh.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormLogin.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormPlashScreen.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.Properties.Resources.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThanhToan.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucGiaoDienXacNhanDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyChiTietDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLoaiLinhKien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyBanHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLinhKien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyKhachHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhaCungCap.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhanVien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucReport.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeKhachHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeLinhKien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeNhanVien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucTruyXuatHoaDon.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\GUI.csproj.CopyComplete
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.exe
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormGiaoDienChinh.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormLogin.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormPlashScreen.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.Properties.Resources.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucGiaoDienXacNhanDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyChiTietDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLoaiLinhKien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyBanHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLinhKien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyKhachHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhaCungCap.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhanVien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucReport.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeKhachHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeLinhKien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeNhanVien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.exe
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe.config
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\BLL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.Shared.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\FlashControlV71.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\WinFormAnimation.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\ShockwaveFlashObjects.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\stdole.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.xml
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\WinFormAnimation.xml
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\bin\Debug\DAL.dll.config
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\GUI.csproj.CopyComplete
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucGiaoDienXacNhanPhieuNhapKho.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyChiTietPhieuNhapKho.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyPhieuNhapKho.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhapKho.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThanhToanDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThanhToanPhieuNhapKho.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLoaiNhanVien.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucTruyXuatDonDatHang.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucTruyXuatPhieuNhapKho.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKePhieuNhapKho.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeNhaCungCap.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThongTinCaNhan.resources
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThongTinCaNhanKhachHang.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormGiaoDienChinh.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormLogin.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormPlashScreen.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.Properties.Resources.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucGiaoDienXacNhanPhieuNhapKho.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLoaiNhanVien.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyChiTietPhieuNhapKho.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyPhieuNhapKho.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhapKho.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThanhToanDonDatHang.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucGiaoDienXacNhanDonDatHang.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyChiTietDonDatHang.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLoaiLinhKien.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyBanHang.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLinhKien.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyDonDatHang.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyKhachHang.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhaCungCap.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhanVien.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThanhToanPhieuNhapKho.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThongTinCaNhan.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThongTinCaNhanKhachHang.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucReport.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeDonDatHang.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeKhachHang.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeLinhKien.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeNhaCungCap.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeNhanVien.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKePhieuNhapKho.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucTruyXuatDonDatHang.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucTruyXuatPhieuNhapKho.resources
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.exe
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.pdb
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe.config
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.pdb
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\WinFormAnimation.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\stdole.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.pdb
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.pdb
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\WinFormAnimation.xml
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.pdb
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.dll.config
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.CopyComplete
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe.config
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.exe
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\QuanLyLinhKien.pdb
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.dll
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.dll
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.dll
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\WinFormAnimation.dll
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.dll
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\stdole.dll
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\BLL.pdb
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\Entity.pdb
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DevComponents.DotNetBar2.xml
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\WinFormAnimation.xml
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.pdb
+T:\QuanLyLinhKien\QuanLyLinhKien\bin\Debug\DAL.dll.config
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csprojAssemblyReference.cache
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormGiaoDienChinh.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormLogin.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.FormPlashScreen.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.Properties.Resources.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucGiaoDienXacNhanPhieuNhapKho.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLoaiNhanVien.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyChiTietPhieuNhapKho.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyPhieuNhapKho.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhapKho.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThanhToanDonDatHang.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucGiaoDienXacNhanDonDatHang.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyChiTietDonDatHang.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLoaiLinhKien.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyBanHang.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyLinhKien.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyDonDatHang.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyKhachHang.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhaCungCap.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyNhanVien.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThanhToanPhieuNhapKho.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThongTinCaNhan.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucQuanLyThongTinCaNhanKhachHang.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucReport.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeDonDatHang.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeKhachHang.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeLinhKien.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeNhaCungCap.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKeNhanVien.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucThongKePhieuNhapKho.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucTruyXuatDonDatHang.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.UC.ucTruyXuatPhieuNhapKho.resources
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.GenerateResource.cache
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\GUI.csproj.CopyComplete
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.exe
+T:\QuanLyLinhKien\QuanLyLinhKien\obj\Debug\QuanLyLinhKien.pdb

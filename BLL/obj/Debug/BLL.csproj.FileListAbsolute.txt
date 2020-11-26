@@ -1,0 +1,97 @@
+D:\@ Shortcut\PTUD\QuanLyLinhKien\BLL\bin\Debug\BLL.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\BLL\bin\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\QuanLyLinhKien\BLL\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\BLL\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\QuanLyLinhKien\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\@ Shortcut\PTUD\QuanLyLinhKien\BLL\obj\Debug\BLL.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\BLL\obj\Debug\BLL.pdb
+T:\@Viet\QuanLyLinhKien\BLL\bin\Debug\BLL.dll
+T:\@Viet\QuanLyLinhKien\BLL\bin\Debug\BLL.pdb
+T:\@Viet\QuanLyLinhKien\BLL\bin\Debug\Entity.dll
+T:\@Viet\QuanLyLinhKien\BLL\bin\Debug\Entity.pdb
+T:\@Viet\QuanLyLinhKien\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+T:\@Viet\QuanLyLinhKien\BLL\obj\Debug\BLL.dll
+T:\@Viet\QuanLyLinhKien\BLL\obj\Debug\BLL.pdb
+T:\@Viet\QuanLyLinhKien\BLL\bin\Debug\DAL.dll
+T:\@Viet\QuanLyLinhKien\BLL\bin\Debug\DAL.pdb
+T:\Viet\QuanLyLinhKien\BLL\bin\Debug\BLL.dll
+T:\Viet\QuanLyLinhKien\BLL\bin\Debug\BLL.pdb
+T:\Viet\QuanLyLinhKien\BLL\bin\Debug\DAL.dll
+T:\Viet\QuanLyLinhKien\BLL\bin\Debug\Entity.dll
+T:\Viet\QuanLyLinhKien\BLL\bin\Debug\DAL.pdb
+T:\Viet\QuanLyLinhKien\BLL\bin\Debug\Entity.pdb
+T:\Viet\QuanLyLinhKien\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+T:\Viet\QuanLyLinhKien\BLL\obj\Debug\BLL.dll
+T:\Viet\QuanLyLinhKien\BLL\obj\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\BLL\bin\Debug\BLL.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\BLL\bin\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\BLL\bin\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\BLL\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\BLL\bin\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\BLL\bin\Debug\DAL.dll.config
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\BLL\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\BLL\obj\Debug\BLL.dll
+D:\@ Shortcut\PTUD\Bai tap\BK2\QuanLyLinhKien\BLL\obj\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\BLL\bin\Debug\BLL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\BLL\bin\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\BLL\bin\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\BLL\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\BLL\bin\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\BLL\bin\Debug\DAL.dll.config
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\BLL\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\BLL\obj\Debug\BLL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKien\BLL\obj\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\BLL\bin\Debug\BLL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\BLL\bin\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\BLL\bin\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\BLL\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\BLL\bin\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\BLL\bin\Debug\DAL.dll.config
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\BLL\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\BLL\obj\Debug\BLL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc\BLL\obj\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\BLL\bin\Debug\BLL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\BLL\bin\Debug\BLL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\BLL\bin\Debug\DAL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\BLL\bin\Debug\Entity.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\BLL\bin\Debug\DAL.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\BLL\bin\Debug\DAL.dll.config
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\BLL\bin\Debug\Entity.pdb
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\BLL\obj\Debug\BLL.dll
+D:\@ Shortcut\PTUD\Bai tap\QuanLyLinhKienBanGoc_Test\BLL\obj\Debug\BLL.pdb
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\BLL\bin\Debug\BLL.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\BLL\bin\Debug\BLL.pdb
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\BLL\bin\Debug\DAL.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\BLL\bin\Debug\Entity.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\BLL\bin\Debug\DAL.pdb
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\BLL\bin\Debug\DAL.dll.config
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\BLL\bin\Debug\Entity.pdb
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\BLL\obj\Debug\BLL.dll
+C:\Users\CaoQuocDong\Documents\Blacklist\Compressed\QuanLyLinhKien\QuanLyLinhKien\BLL\obj\Debug\BLL.pdb
+T:\QuanLyLinhKien\BLL\bin\Debug\BLL.dll
+T:\QuanLyLinhKien\BLL\bin\Debug\BLL.pdb
+T:\QuanLyLinhKien\BLL\bin\Debug\DAL.dll
+T:\QuanLyLinhKien\BLL\bin\Debug\Entity.dll
+T:\QuanLyLinhKien\BLL\bin\Debug\DAL.pdb
+T:\QuanLyLinhKien\BLL\bin\Debug\DAL.dll.config
+T:\QuanLyLinhKien\BLL\bin\Debug\Entity.pdb
+T:\QuanLyLinhKien\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+T:\QuanLyLinhKien\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+T:\QuanLyLinhKien\BLL\obj\Debug\BLL.csproj.CopyComplete
+T:\QuanLyLinhKien\BLL\obj\Debug\BLL.dll
+T:\QuanLyLinhKien\BLL\obj\Debug\BLL.pdb

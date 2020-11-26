@@ -1,0 +1,10 @@
+D:\@ Shortcut\PTUD\QuanLyLinhKien\DLL\bin\Debug\DLL.dll.config
+D:\@ Shortcut\PTUD\QuanLyLinhKien\DLL\bin\Debug\DLL.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\DLL\bin\Debug\DLL.pdb
+D:\@ Shortcut\PTUD\QuanLyLinhKien\DLL\obj\Debug\DLL.dll
+D:\@ Shortcut\PTUD\QuanLyLinhKien\DLL\obj\Debug\DLL.pdb
+T:\@Viet\QuanLyLinhKien\DLL\bin\Debug\DLL.dll.config
+T:\@Viet\QuanLyLinhKien\DLL\bin\Debug\DLL.dll
+T:\@Viet\QuanLyLinhKien\DLL\bin\Debug\DLL.pdb
+T:\@Viet\QuanLyLinhKien\DLL\obj\Debug\DLL.dll
+T:\@Viet\QuanLyLinhKien\DLL\obj\Debug\DLL.pdb
